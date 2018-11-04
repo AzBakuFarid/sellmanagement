@@ -1,0 +1,7 @@
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\bin\Debug\SellingManagmentApp.exe.config
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\bin\Debug\SellingManagmentApp.exe
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\bin\Debug\SellingManagmentApp.pdb
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\obj\Debug\SellingManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\obj\Debug\SellingManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\obj\Debug\SellingManagmentApp.exe
+C:\Users\FaridAz\source\repos\SellingManagmentApp\SellingManagmentApp\obj\Debug\SellingManagmentApp.pdb
